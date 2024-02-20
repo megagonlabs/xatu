@@ -1,0 +1,14 @@
+[no prose]
+
+Below is an instruction that describes a task, along with an input text paired with a reference and an explanation that provide further context. Please edit the input text based on the instruction, the reference, and the explanation. Your response should only include the edited output.
+
+# Instruction:
+{{instruction}}
+
+# Input:
+{{input}}
+
+# Reference:
+{{reference}}
+
+# Response:

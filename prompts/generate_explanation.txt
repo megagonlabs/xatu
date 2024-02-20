@@ -1,0 +1,15 @@
+[no prose]
+
+# Task:
+Your task is to provide a two-sentence explanation of the edits made based on the instruction by comparing the original and revised texts.
+
+# Instruction:
+{{instruction}}
+
+# Original text:
+{{input}}
+
+# Revised text:
+{{output}}
+
+# Explanation:

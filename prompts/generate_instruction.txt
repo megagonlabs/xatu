@@ -1,0 +1,15 @@
+[no prose]
+
+# Task:
+Your task is to write a detailed instruction that enables the AI assistant to edit the original text into a revised text. The instruction must not cause information leakage about the revised text.
+
+# Original text:
+{{input}}
+
+# Reference:
+{{reference}}
+
+# Revised text:
+{{output}}
+
+# Instruction:
